@@ -125,3 +125,6 @@ for image_item in image_list:
 ```
 [colab代码传送门](https://colab.research.google.com/drive/1uzzR1MhaSsF7-qZL539XS2tjgiHfXG8b?usp=sharing "colab代码传送门")
 
+## 注意事项
+1、PDF存在排版问题，特别是图片模式。
+2、当前仅解析全图片模式，请周知。
