@@ -1,10 +1,7 @@
 ### 第一步需求分析
 正在学习日语，小红书上发现这个形式挺好的。
 
-![image](static/小红书图片.jpg)
-
-<img src="static/小红书图片.jpg" width="100px">
-
+<img src="static/小红书图片.jpg" width="300px">
 
 才知道书名后，全网搜《用日本小学课本学50音图》这个本电子书，zlibrary上下载的不是很清晰，希望能够下一本全的。
 
