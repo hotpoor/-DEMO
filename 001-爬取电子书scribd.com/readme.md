@@ -13,6 +13,7 @@
 ## 第三步：准备下载
 
 下载订阅费用，但是在线可以浏览
+
 <img src="static/下载要订阅要钱.png" width="600px">
 
 说实话这些年就没存什么钱，大学辍学后，一直自己干，每月挣的里面，现在加上老婆那份，每月上供国家6k+。
@@ -51,10 +52,10 @@ for (i in a){
     pages_list.push(a[i]["contentUrl"])
 }
 
-# 打印成果
+// 打印成果
 console.log(pages_list)
 
-# 为了后面爬取方便转字符串使用
+// 为了后面爬取方便转字符串使用
 console.log(JSON.stringify(pages_list))
 ```
 
@@ -63,10 +64,10 @@ console.log(JSON.stringify(pages_list))
 脚本拿到链接地址。
 
 ```
-# 脚本获取列表地址
+// 脚本获取列表地址
 https://html.scribdassets.com/95s13rsbwgbc5wff/pages/1-cd9be67960.jsonp
 
-# 图片真实地址
+// 图片真实地址
 https://html.scribdassets.com/95s13rsbwgbc5wff/images/1-cd9be67960.jpg
 ```
 
