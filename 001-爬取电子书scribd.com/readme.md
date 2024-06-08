@@ -118,4 +118,10 @@ for image_item in image_list:
 
 ```
 
+本地执行遇到了连不上对方服务器的囧境，国内工程师大写尴尬。这段代码直接去google的colab。
+下载完记得执行打包代码
+```
+!zip -r "用日本小学课本学50音图.zip" "用日本小学课本学50音图"
+```
+[colab代码传送门](https://colab.research.google.com/drive/1uzzR1MhaSsF7-qZL539XS2tjgiHfXG8b?usp=sharing "colab代码传送门")
 
