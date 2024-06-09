@@ -1,9 +1,9 @@
 ## 第一步：需求分析
-<img src="static/下载时使用的自增变量.png" width="300px">
+<img src="static/下载时使用的自增变量.png" width="400px">
 
 下载时用的自增变量，mac的表现很好，就是顺序的。但是上传百度网盘后，他们的文件列表sort排序，会有问题。
 
-<img src="static/百度网盘文件名顺序排序问题.png" width="300px">
+<img src="static/百度网盘文件名顺序排序问题.png" width="600px">
 
 
 ## 第二步：解决方式
