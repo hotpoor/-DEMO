@@ -1,5 +1,5 @@
 ## 第一步：需求分析
-<img src="static/下载时使用的自增变量.png" width="400px">
+<img src="static/下载时使用的自增变量.png" width="600px">
 
 下载时用的自增变量，mac的表现很好，就是顺序的。但是上传百度网盘后，他们的文件列表sort排序，会有问题。
 
@@ -43,10 +43,10 @@ for base_filename in base_filenames:
 
 ```
 ## 第四步：效果查看
-<img src="static/运行效果.png" width="400px">
+<img src="static/运行效果.png" width="600px">
 
 本地文件夹效果排序
 
-<img src="static/百度网盘效果.png" width="400px">
+<img src="static/百度网盘效果.png" width="600px">
 
 在线网盘文件夹效果排序
