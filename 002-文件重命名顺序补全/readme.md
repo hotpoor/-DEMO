@@ -42,5 +42,11 @@ for base_filename in base_filenames:
     os.rename(target_path, new_aim_filename)
 
 ```
+## 第四步：效果查看
+<img src="static/运行效果.png" width="400px">
 
+本地文件夹效果排序
 
+<img src="static/百度网盘效果.png" width="400px">
+
+在线网盘文件夹效果排序
