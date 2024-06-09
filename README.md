@@ -1,4 +1,4 @@
-# 夏力维爬虫技术案例
+# 夏力维爬虫技术实践案例
 汇总自己的爬虫使用实例
 
 [001-爬取电子书scribd.com](https://github.com/hotpoor/xialiwei_spider_technology_demos/tree/main/001-%E7%88%AC%E5%8F%96%E7%94%B5%E5%AD%90%E4%B9%A6scribd.com "001-爬取电子书scribd.com")
